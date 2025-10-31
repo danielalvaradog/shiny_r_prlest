@@ -1,0 +1,29 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Shiny specific
+rsconnect/
+.shiny_app_cache/
+
+# Data files (uncomment if you don't want to track data)
+# data/*.csv
+# data/*.xlsx
+# data/*.rds
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+
